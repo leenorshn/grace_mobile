@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762336877695",
+    "project_id": "graceapp-f8fa3",
+    "storage_bucket": "graceapp-f8fa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762336877695:android:e97421ff8d7fe108f9b34a",
+        "android_client_info": {
+          "package_name": "com.iwike.grace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcD0bd6QmuCPPyOoi6n5DwIUOvphBli-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
